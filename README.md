@@ -7,7 +7,7 @@
 
 
 ### My statistics in Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=DavidLazarog&show_icons=true&theme=dark)](https://github.com/MarcoRodriguezRuiz/github-readme-stats)
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=MarcoRodriguezRuiz&show_icons=true&theme=dark)](https://github.com/MarcoRodriguezRuiz/github-readme-stats)
 
 
 ### Contact: 
